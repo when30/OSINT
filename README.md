@@ -1,2 +1,2 @@
-# OSINT
-OSINT notes
+# Wit
+Wit notes
